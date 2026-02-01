@@ -20,8 +20,8 @@ body {
 
 #no-button {
     margin: 0 10px;
-    color: white;
-    background-color: red;
+    color: red;
+    background-color: white;
     height: 40px !important;
     width: auto;
     border: none;
@@ -36,9 +36,9 @@ body {
 
 #yes-button {
     margin: 0 10px;
-    color: white;
+    color: green;
     border: none;
-    background-color: green;
+    background-color: white;
     cursor: pointer;
     height: 40px;
 
