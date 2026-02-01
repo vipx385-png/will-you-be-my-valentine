@@ -11,9 +11,6 @@ const answers_no = {
         "My heart is buffering…",
         "Please reconsider. For love.",
         "Okay but the Yes button is RIGHT THERE",
-        "Why are you doing this to me?",
-        "Please give me a chance!",
-        "I am begging you to stop!",
         "Ok, Let's just start over.."
     ],
     french: [
